@@ -1,15 +1,34 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Web Application Security
+subtitle: Focus on web
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: web_security.jpg
+thumbnail: web_security.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Web Application Security
+description: Focus on advocating various web application security issues, their exploitation and combat techniques. The fields emphasized include :
+1) SQL injection
+2) XPATH injection
+3) NoSQL injection
+4) IMAP / SMTP injection
+5) Command Injection
+6) XSS
+7) Server Side  JavaScript  Injection
+8) CSRF
+9) Server Side Request Forgery ( SSRF ) , 
+10) Lightweight Directory Access Protocol ( LDAP ) , 
+11) XML External Entity ( XXE ) , 
+12) Local / Remote File Inclusion  ( LFI / RFI )
+13) Session Hijacking
+14) Data validation
+15) Insecure Direct Object References
+16) Insecure Configuration
+17) Sensitive Data Exposure 
+18) Missing Function Level Access Control 
+19) Unvalidated  Redirects and Forwards
 
 ---
