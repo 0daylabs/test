@@ -27,7 +27,7 @@ people:
 
 - name: Seshagiri Prabhu
   pic: 2
-  position: CEO
+  position: Android Security
   social:
     - title: twitter
       url: #
@@ -36,9 +36,9 @@ people:
     - title: linkedin
       url: https://in.linkedin.com/pub/seshagiri-prabhu/1b/172/8ab
 
-- name: Diana Petersen
+- name: Sreepriya Chalakkal
   pic: 3
-  position: Lead Developer
+  position: Malware Analysis
   social:
     - title: twitter
       url: #
@@ -58,7 +58,7 @@ social:
   - title: bitbucket 
     url: #
   - title: github
-    url: https://github.com/team-bi0s/team-bi0s.github.io
+    url: https://github.com/team-bi0s/
 
 # Postal address (add as many lines as necessary)
 address:
