@@ -14,27 +14,27 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Anirudh Anand
   pic: 1
-  position: Lead Designer
+  position: Web Application Security
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/a0xnirudh
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://facebook.com/a0xnirudh
+    - title: linkedin
+      url: https://www.linkedin.com/in/anirudhanand
 
-- name: Larry Parker
+- name: Seshagiri Prabhu
   pic: 2
   position: Lead Marketer
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/seshagiri.prabhu
     - title: linkedin
-      url: #
+      url: https://in.linkedin.com/pub/seshagiri-prabhu/1b/172/8ab
 
 - name: Diana Petersen
   pic: 3
