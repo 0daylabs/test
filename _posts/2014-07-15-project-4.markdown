@@ -4,8 +4,8 @@ subtitle: Focus on binary
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: re-mal.jpg
-thumbnail: re-mal.jpg
+img: re_mal.jpg
+thumbnail: re_mal.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

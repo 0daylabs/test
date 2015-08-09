@@ -14,7 +14,6 @@ description: Binary Exploitation involves manipulating application binaries into
 What we break here is the assumptions made by the app developer.
 Categories  Memory Leak, Memory Corruption, Control Flow Hijacking, Privilege Escalation, Denial of Service
 Target System level application
-
 1. Command Injection [ control flow hijack ]   
 2. Buffer Overflow Exploitation [memcorrupt | DoS ]
 3. Format String Exploitation [memcorrupt | memleak | Privilege Escalation | DoS]
@@ -24,6 +23,4 @@ Target System level application
 7. Use After Free [ memleak | memcorrupt | control flow hijack | DoS ]
 8. Signal Return Oriented Programming [ control flow hijack ]
 9. Taint analysis [ info gathering ]
-
-
 ---
