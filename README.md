@@ -2,32 +2,24 @@
 Welcome to the Jekyll website
 
 ## Development
-1. Install [rvm](https://rvm.io/)
+### Install [rvm](https://rvm.io/)
 ```bash
-curl -sSL https://get.rvm.io | bash -s stable
+$ curl -sSL https://get.rvm.io | bash -s stable
 ```
-2. Install ruby v2.2.2
+### Install ruby v2.2.2 and site requirements
 ```bash
-rvm install ruby-2.2.2
+$ rvm install ruby-2.2.2
+$ gem install bundle
+$ gem install jekyll
 ```
-3. Install GNU/Linux dependencies
+### Install GNU/Linux dependencies
 ```bash
-sudo apt-get install nodejs
+$ sudo apt-get install nodejs
 ```
-4. Install bundle
+
+### Build and serve site
 ```bash
-gem install bundle
-```
-5. Install Jekyll
-```bash
-gem install jekyll
-```
-6. Build site
-```bash
-jekyll build
-```
-7. Serve site
-```
-jekyll serve
+$ jekyll build
+$ jekyll serve
 ```
 Now jekyll would serve in http://0.0.0.0:4000//
