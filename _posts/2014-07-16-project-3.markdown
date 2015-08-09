@@ -10,8 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Binary Exploitation
-description: Binary Exploitation involves manipulating application binaries into performing actions not intended by the application developer and leveraging it to obtain otherwise forbidden resources or special privileges.
-What we break here is the assumptions made by the app developer.
-Categories  Memory Leak, Memory Corruption, Control Flow Hijacking, Privilege Escalation, Denial of Service
-Target System level application
+description: Binary Exploitation involves manipulating application binaries into performing actions not intended by the application developer and leveraging it to obtain otherwise forbidden resources or special privileges.What we break here is the assumptions made by the app developer.
 ---
