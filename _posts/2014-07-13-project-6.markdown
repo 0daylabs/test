@@ -3,10 +3,12 @@ title: Web Application Security
 subtitle: Focus on web
 layout: default
 modal-id: 6
+date: 2014-07-15
 img: web_security.jpg
 thumbnail: web_security.jpg
 alt: image-alt
 project-date: April 2014
+client: Start Bootstrap
 category: Web Development
 description: Focus on advocating various web application security issues, their exploitation and combat techniques. The fields emphasized include
 ---
