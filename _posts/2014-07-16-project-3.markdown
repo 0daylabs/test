@@ -1,15 +1,29 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Binary Exploitation
+subtitle: Focus on binary
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: binary.png
+thumbnail: binary.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Binary Exploitation
+description: Binary Exploitation involves manipulating application binaries into performing actions not intended by the application developer and leveraging it to obtain otherwise forbidden resources or special privileges.
+What we break here is the assumptions made by the app developer.
+Categories  Memory Leak, Memory Corruption, Control Flow Hijacking, Privilege Escalation, Denial of Service
+Target System level application
+
+1. Command Injection [ control flow hijack ]   
+2. Buffer Overflow Exploitation [memcorrupt | DoS ]
+3. Format String Exploitation [memcorrupt | memleak | Privilege Escalation | DoS]
+4. Shellcoding [ control flow hijack | Privilege Escalation]
+5. Return Oriented Programming [ control flow hijack ]
+6. TOCTOU [ memleak | memcorrupt | DoS | Privilege Escalation]
+7. Use After Free [ memleak | memcorrupt | control flow hijack | DoS ]
+8. Signal Return Oriented Programming [ control flow hijack ]
+9. Taint analysis [ info gathering ]
+
 
 ---
