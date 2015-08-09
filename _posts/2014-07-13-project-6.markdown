@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Application Security
-description: Focus on advocating various web application security issues, their exploitation and combat techniques. The fields emphasized include :
+description: Focus on advocating various web application security issues, their exploitation and combat techniques. The fields emphasized include
 1) SQL injection
 2) XPATH injection
 3) NoSQL injection
