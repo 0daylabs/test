@@ -27,7 +27,7 @@ people:
 
 - name: Seshagiri Prabhu
   pic: 2
-  position: Lead Marketer
+  position: CEO
   social:
     - title: twitter
       url: #
@@ -50,15 +50,15 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: #
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: #
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: #
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/team-bi0s/team-bi0s.github.io
 
 # Postal address (add as many lines as necessary)
 address:
