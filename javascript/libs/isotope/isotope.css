@@ -1,0 +1,87 @@
+.isotope {
+	margin-top: 10px;
+}
+
+.folio-inner {
+	overflow:hidden;
+	background:#fff;
+	margin-bottom:25px;
+	
+}
+
+.folio-filter {
+	position: relative;
+	bottom: 7px;
+	display:table;
+	margin:0px auto;
+	float:none;
+margin-bottom:45px;
+margin-top:35px;
+padding:0px;
+    z-index: 120;
+}
+	
+.folio-filter li {
+	display: inline-block;
+	font-size:16px;
+	font-family:Open sans;
+	font-weight:400;
+	padding:3px 12px;
+	line-height:15px;
+	font-style:italic;
+	color:#5b5b5b;
+}
+
+.folio-filter li:last-child {
+	padding-right:0px;
+ }
+
+
+.folio-filter li a {
+	display: block;
+	color: #5b5b5b;
+	line-height: 16px;
+padding-bottom:13px;
+}
+	
+.folio-filter li a:hover {
+	color: #4bd0ea;
+background:url(../../../images/filter-active.png) no-repeat center bottom;
+
+}
+	
+	
+.folio-filter li a.selected {color:#4bd0ea;
+background:url(../../../images/filter-active.png) no-repeat center bottom;
+}
+
+.selected {color:#4bcfe9;}
+
+/* Isotope Transitions
+------------------------------- */
+.isotope, .isotope .folio-item {-webkit-transition-duration: 0.8s;-moz-transition-duration:0.8s;-ms-transition-duration:0.8s;-o-transition-duration:0.8s;transition-duration:0.8s;}
+.isotope {-webkit-transition-property:height,width;-moz-transition-property: height,width;-ms-transition-property:height,width;-o-transition-property:height,width;transition-property:height,width;}
+.isotope .item {-webkit-transition-property: -webkit-transform,opacity;-moz-transition-property:-moz-transform,opacity;-ms-transition-property:-ms-transform,opacity;-o-transition-property:top,left,opacity;transition-property:transform, opacity;}
+
+/* Note: Design for a width of 480px */
+@media only screen and (max-width: 470px) {
+
+.folio-filter {
+    margin: 50px auto 0px;
+}
+
+.folio-filter li {
+    font-size: 12px;
+    padding: 3px 3px;
+}
+
+}
+
+/* Note: Design for a width of 480px */
+@media only screen and (max-width: 767px) {
+
+.folio-filter {
+    margin: 50px auto 0px;
+}
+
+}
